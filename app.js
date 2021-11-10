@@ -13,7 +13,7 @@ const connection = mysql.createConnection({
   database: "company_db"
 });
 
-connection.connect(function(err) {
+connection.connect(function() {
   if (err) throw err;
   console.log("connected as id " + connection.threadId + "\n");
   exports.start();

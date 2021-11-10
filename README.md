@@ -51,7 +51,8 @@ MIT License
 ## How to Contribute
 NA
 ## Tests
-visit this link
+view testing here
+![Tutorial of program](assets/gif/EMS-tutorial.gif)
 ## Questions
 AntonioM4
 marino.antonio375@gmail.com
